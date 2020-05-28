@@ -2,6 +2,8 @@
 
 Technologies used:
 
+- Serverless Framework
+
 - AWS Cloud Formation
 - AWS Cloud Watch
 - AWS Lambda
